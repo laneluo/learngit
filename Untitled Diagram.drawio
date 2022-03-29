@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T17:22:07.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="IMYxMmc3g9zYSznXq4l4" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T17:31:50.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vwBqGhpPIZ1cwFv2UDMI" version="17.2.4" type="github">
   <diagram id="dT5ClSpb7_-b5Ubr0wKS" name="第 1 页">
     <mxGraphModel dx="982" dy="568" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,17 +46,11 @@
         <mxCell id="AYEbhrb1yisgEEsM8yD8-14" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYEbhrb1yisgEEsM8yD8-16" value="开始扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="750" width="60" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="588.5" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-20" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="558.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AYEbhrb1yisgEEsM8yD8-21" value="停止扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="748.5" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="590" width="230" height="380" as="geometry" />
@@ -195,6 +189,12 @@
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-56" value="&lt;h1&gt;操作流程&lt;/h1&gt;&lt;div&gt;1.dial仪器建立连接。&lt;/div&gt;&lt;div&gt;2.下发开始采集指令，仪器应回复开始采集成功以及本次采集的ID。&lt;/div&gt;&lt;div&gt;3.下发停止采集指令，仪器应回复停止采集成功以及采集成功的ID。&lt;/div&gt;&lt;div&gt;4.仪器向app发送处理数据的进度。&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="1075" width="425" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-57" value="开始扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="940" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-58" value="停止扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="938.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
