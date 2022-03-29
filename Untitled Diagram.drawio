@@ -1,65 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T17:32:59.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="-VTmV1slviHvLz9NWOFz" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T17:33:49.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ykQOjnOIFrIimB-mn5qX" version="17.2.4" type="github">
   <diagram id="dT5ClSpb7_-b5Ubr0wKS" name="第 1 页">
-    <mxGraphModel dx="1422" dy="822" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="954" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AYEbhrb1yisgEEsM8yD8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="230" height="380" as="geometry" />
+          <mxGeometry x="50" y="85" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-2" value="activity1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="85" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="223" as="sourcePoint" />
-            <mxPoint x="310" y="223" as="targetPoint" />
+            <mxPoint x="60" y="178" as="sourcePoint" />
+            <mxPoint x="190" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-5" value="连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="60" height="27" as="geometry" />
+          <mxGeometry x="210" y="155" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-6" value="请输入仪器的ip与端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="155" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="230" height="380" as="geometry" />
+          <mxGeometry x="360" y="85" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-8" value="activity1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="85" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="223" as="sourcePoint" />
-            <mxPoint x="620.0000000000002" y="223" as="targetPoint" />
+            <mxPoint x="370" y="178" as="sourcePoint" />
+            <mxPoint x="500.0000000000002" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-10" value="连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="60" height="27" as="geometry" />
+          <mxGeometry x="520" y="155" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-11" value="请输入仪器的ip与端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="130" height="30" as="geometry" />
+          <mxGeometry x="370" y="155" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="590" width="230" height="380" as="geometry" />
+          <mxGeometry x="50" y="545" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-14" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="135" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="588.5" width="230" height="380" as="geometry" />
+          <mxGeometry x="360" y="543.5" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-20" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="558.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="513.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="590" width="230" height="380" as="geometry" />
+          <mxGeometry x="690" y="545" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-23" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="895" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="775" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="910" y="763.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="790" y="718.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="AYEbhrb1yisgEEsM8yD8-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,28 +110,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="135" width="230" height="380" as="geometry" />
+          <mxGeometry x="685" y="90" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-38" value="activity1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="105" width="60" height="30" as="geometry" />
+          <mxGeometry x="770" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="815" y="228" as="sourcePoint" />
-            <mxPoint x="945.0000000000002" y="228" as="targetPoint" />
+            <mxPoint x="695" y="183" as="sourcePoint" />
+            <mxPoint x="825.0000000000002" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-40" value="连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="205" width="60" height="27" as="geometry" />
+          <mxGeometry x="845" y="160" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-41" value="请输入仪器的ip与端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="815" y="205" width="130" height="30" as="geometry" />
+          <mxGeometry x="695" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-42" value="连接失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="295" width="100" height="30" as="geometry" />
+          <mxGeometry x="750" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="580" y="305" width="30" height="30" as="geometry" />
+          <mxGeometry x="460" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="AYEbhrb1yisgEEsM8yD8-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,31 +182,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-52" value="正在连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="275" width="100" height="30" as="geometry" />
+          <mxGeometry x="425" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-53" value="正在处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="875" y="733.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="755" y="688.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-56" value="&lt;h1&gt;操作流程&lt;/h1&gt;&lt;div&gt;1.dial仪器建立连接。&lt;/div&gt;&lt;div&gt;2.下发开始采集指令，仪器应回复开始采集成功以及本次采集的ID。&lt;/div&gt;&lt;div&gt;3.下发停止采集指令，仪器应回复停止采集成功以及采集成功的ID。&lt;/div&gt;&lt;div&gt;4.仪器向app发送处理数据的进度。&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1075" width="425" height="165" as="geometry" />
+          <mxGeometry x="110" y="1030" width="425" height="165" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-57" value="开始扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="940" width="230" height="30" as="geometry" />
+          <mxGeometry x="50" y="895" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-58" value="停止扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="938.5" width="230" height="30" as="geometry" />
+          <mxGeometry x="360" y="893.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1126" y="590" width="230" height="380" as="geometry" />
+          <mxGeometry x="1006" y="545" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-60" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="1091" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-71" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="734" width="120" height="80" as="geometry" />
+          <mxGeometry x="1061" y="689" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-72" value="清空" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1126" y="940" width="230" height="30" as="geometry" />
+          <mxGeometry x="1006" y="895" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="545" width="230" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-76" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-78" value="开始扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="895" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
