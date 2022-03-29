@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T17:21:25.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="3XD4ztGv9xGnldvEH1n1" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T17:22:07.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="IMYxMmc3g9zYSznXq4l4" version="17.2.4" type="github">
   <diagram id="dT5ClSpb7_-b5Ubr0wKS" name="第 1 页">
     <mxGraphModel dx="982" dy="568" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="AYEbhrb1yisgEEsM8yD8-14" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYEbhrb1yisgEEsM8yD8-16" value="开始采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-16" value="开始扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="750" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="AYEbhrb1yisgEEsM8yD8-20" value="activity2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="558.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYEbhrb1yisgEEsM8yD8-21" value="停止采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AYEbhrb1yisgEEsM8yD8-21" value="停止扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="748.5" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AYEbhrb1yisgEEsM8yD8-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
